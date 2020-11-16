@@ -1,0 +1,32 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\packages\NUnit.3.5.0\lib\net45\nunit.framework.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\packages\Microsoft.CodeAnalysis.Common.3.8.0\lib\netstandard2.0\Microsoft.CodeAnalysis.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0c70c190_002Dcf6d_002D4e6b_002Db005_002Dfb784a7d7636/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestsGeneratorUnitTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;218F3017-44CB-48FA-BF75-37C83D0754DB/f:Tests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;MSTest::28825818-5C5A-4704-B1A3-CD6D35BCBD1A::.NETFramework,Version=v4.6.1::TestsGenerator.UnitTests.TestsGeneratorUnitTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=16cca33a_002D36d7_002D41d3_002D83f1_002D0909644307ff/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestsGeneratorUnitTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;MSTest::28825818-5C5A-4704-B1A3-CD6D35BCBD1A::.NETFramework,Version=v4.6.1::TestsGenerator.UnitTests.TestsGeneratorUnitTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;MSTest::28825818-5C5A-4704-B1A3-CD6D35BCBD1A::.NETFramework,Version=v4.6.1::TestsGenerator.TestsGeneratorUnitTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;Project Location="C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests" Presentation="&amp;lt;TestsGenerator.Tests&amp;gt;" /&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7804b8b3_002Ddd16_002D4378_002D9d42_002Dd006bb67865f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;TestsGenerator.UnitTests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::F28E0C6D-B46F-4DF6-BECE-C71A8C68D7E2::.NETFramework,Version=v4.6.1::TestsGenerator.UnitTests.TestsGeneratorUnitTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=900b3fc8_002D7952_002D47a6_002Da947_002D716c1e17c4f1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestsGeneratorUnitTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::F28E0C6D-B46F-4DF6-BECE-C71A8C68D7E2::.NETFramework,Version=v4.6.1::TestsGenerator.UnitTests.TestsGeneratorUnitTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
