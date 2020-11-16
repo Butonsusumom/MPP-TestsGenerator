@@ -4,14 +4,44 @@
     <projectFile>TestsGenerator.UsageExample/TestsGenerator.UsageExample.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ba0f471-12d0-4242-8492-44af0a7ea122" name="Default Changelist" comment="" />
+    <list default="true" id="0ba0f471-12d0-4242-8492-44af0a7ea122" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestsGenerator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestsGenerator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.Tests/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.Tests/Tests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.Tests/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.Tests/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/obj/Debug/TestsGenerator.UnitTests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/obj/Debug/TestsGenerator.UnitTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeAnalysis.3.8.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeAnalysis.3.8.0/Icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeAnalysis.3.8.0/Microsoft.CodeAnalysis.3.8.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeAnalysis.3.8.0/ThirdPartyNotices.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/CHANGES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/NOTICES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/NUnit.3.5.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/NUnit.System.Linq.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/2CDB5A9D-896E-4B73-8149-97583E450999/6f/008644e2/Microsoft.CodeAnalysis.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/2CDB5A9D-896E-4B73-8149-97583E450999/6f/008644e2/Microsoft.CodeAnalysis.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestsGenerator.UsageExample/SimpleTestFile.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestsGenerator.UsageExample/ExtendedTestFile.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/746BABA9-6B87-43C7-9D05-0E1C366CF318/0a/69fae894/ValueTuple.cs" root0="FORCE_HIGHLIGHTING" />
@@ -22,15 +52,16 @@
         <option value="$PROJECT_DIR$/TestsGenerator/TestsGeneratorConfig.cs" />
         <option value="$PROJECT_DIR$/TestsGenerator.UnitTests/TestsGeneratorUnitTests.cs" />
         <option value="$PROJECT_DIR$/TestsGenerator.UsageExample/Program.cs" />
-        <option value="$PROJECT_DIR$/TestsGenerator.Tests/Tests.cs" />
         <option value="$PROJECT_DIR$/TestsGenerator.UnitTests/app.config" />
         <option value="$PROJECT_DIR$/TestsGenerator.UnitTests/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/TestsGenerator/CodeAnalysis/CodeAnalyzer.cs" />
         <option value="$PROJECT_DIR$/TestsGenerator.Tests/packages.config" />
+        <option value="$PROJECT_DIR$/TestsGenerator.Tests/Tests.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1k6bvoLVjAzS3hKfJ5G7IESI8Hp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -73,7 +104,7 @@
       <workItem from="1605024276591" duration="2591000" />
       <workItem from="1605028887475" duration="599000" />
       <workItem from="1605472461937" duration="3746000" />
-      <workItem from="1605516575862" duration="5447000" />
+      <workItem from="1605516575862" duration="6053000" />
     </task>
     <servers />
   </component>
@@ -86,6 +117,14 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="619" y="380" key="Github.ShareDialog" timestamp="1605526305680">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="619" y="380" key="Github.ShareDialog/0.0.1504.963@0.0.1504.963" timestamp="1605526305680" />
+    <state x="376" y="188" key="Github.UntrackedFilesDialog" timestamp="1605526322096">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="376" y="188" key="Github.UntrackedFilesDialog/0.0.1504.963@0.0.1504.963" timestamp="1605526322096" />
     <state width="1461" height="256" key="GridCell.Tab.0.bottom" timestamp="1605525949522">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
