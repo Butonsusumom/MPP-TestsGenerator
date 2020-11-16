@@ -1,7 +1,13 @@
 ﻿
 
 using System.Collections.Generic;
+using System.Linq;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
+using NUnit.Framework;
 using TestsGenerator.IO;
+using static Microsoft.VisualStudio.TestTools.UnitTesting.Assert;
+using Assert = Microsoft.VisualStudio.TestTools.UnitTesting.Assert;
+using CollectionAssert = Microsoft.VisualStudio.TestTools.UnitTesting.CollectionAssert;
 
 namespace TestsGenerator.UnitTests
 {
@@ -82,7 +88,7 @@ namespace TestsGenerator.UnitTests
         [Test]
         public void ClTest()
         {
-            Assert.True(true);
+            Assert.IsTrue(true);
         }
 
         [Test]
@@ -119,7 +125,7 @@ namespace TestsGenerator.UnitTests
             List<string> actual = class2Root.DescendantNodes().OfType<MethodDeclarationSyntax>().Select((method) => method.Identifier.ToString()).ToList();
 
             CollectionAssert.AreEquivalent(expected, class2Root.DescendantNodes().OfType<MethodDeclarationSyntax>().Select((method) => method.Identifier.ToString()).ToList());
-            Assert.IsFalse(actual.Contains("GetProtectedInterfaceTest"));
+            IsFalse(actual.Contains("GetProtectedInterfaceTest"));
         }
 
         [Test]

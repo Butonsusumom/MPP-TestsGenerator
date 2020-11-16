@@ -42,7 +42,7 @@ namespace TestsGenerator
             class2Root = CSharpSyntaxTree.ParseText(File.ReadAllText(testClass2FilePath)).GetCompilationUnitRoot();
         }
 
-        /* [TestMethod]
+         [TestMethod]
          public void ExceptionThrowingTest()
          {
              TestsGeneratorConfig config = new TestsGeneratorConfig
@@ -54,7 +54,7 @@ namespace TestsGenerator
              };
 
              Assert.ThrowsException<AggregateException>(() => new TestsGenerator(config).Generate().Wait());
-         }*/
+         }
 
         [TestMethod]
         public void UsingTests()
