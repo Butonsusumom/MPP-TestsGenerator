@@ -4,33 +4,43 @@
     <projectFile>TestsGenerator.UsageExample/TestsGenerator.UsageExample.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ba0f471-12d0-4242-8492-44af0a7ea122" name="Default Changelist" comment="">
+    <list default="true" id="0ba0f471-12d0-4242-8492-44af0a7ea122" name="Default Changelist" comment="Fixed Unit Tests">
+      <change afterPath="$PROJECT_DIR$/TestsGenerator.Tests/bin/Debug/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestsGenerator.Tests/bin/Debug/x64/e_sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestsGenerator.Tests/bin/Debug/x86/e_sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestsGenerator.UsageExample/GeneratedTests/HelloTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestsGenerator.UsageExample/GeneratedTests/TestClass1Test.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestsGenerator.UsageExample/GeneratedTests/TestClass2Test.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestsGenerator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestsGenerator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestsGenerator.Tests/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.Tests/Tests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestsGenerator.Tests/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.Tests/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.Tests/bin/Debug/TestsGenerator.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.Tests/bin/Debug/TestsGenerator.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.Tests/bin/Debug/TestsGenerator.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.Tests/bin/Debug/TestsGenerator.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.Tests/obj/Debug/TestsGenerator.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.Tests/obj/Debug/TestsGenerator.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.Tests/obj/Debug/TestsGenerator.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.Tests/obj/Debug/TestsGenerator.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.Tests/obj/Debug/TestsGenerator.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.Tests/obj/Debug/TestsGenerator.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/Microsoft.CodeAnalysis.CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/Microsoft.CodeAnalysis.CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/Microsoft.CodeAnalysis.CSharp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/Microsoft.CodeAnalysis.CSharp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/TestsGenerator.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/TestsGenerator.UnitTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/TestsGenerator.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/TestsGenerator.UnitTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/de/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/de/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/es/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/es/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/it/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/it/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/x64/e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/x86/e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/bin/Debug/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/obj/Debug/TestsGenerator.UnitTests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/obj/Debug/TestsGenerator.UnitTests.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/obj/Debug/TestsGenerator.UnitTests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/obj/Debug/TestsGenerator.UnitTests.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeAnalysis.3.8.0/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeAnalysis.3.8.0/Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeAnalysis.3.8.0/Microsoft.CodeAnalysis.3.8.0.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeAnalysis.3.8.0/ThirdPartyNotices.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/CHANGES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/NOTICES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/NUnit.3.5.0.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/NUnit.System.Linq.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/obj/Debug/TestsGenerator.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/obj/Debug/TestsGenerator.UnitTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestsGenerator.UnitTests/obj/Debug/TestsGenerator.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestsGenerator.UnitTests/obj/Debug/TestsGenerator.UnitTests.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,21 +63,24 @@
         <option value="$PROJECT_DIR$/TestsGenerator.UnitTests/TestsGeneratorUnitTests.cs" />
         <option value="$PROJECT_DIR$/TestsGenerator.UsageExample/Program.cs" />
         <option value="$PROJECT_DIR$/TestsGenerator.UnitTests/app.config" />
-        <option value="$PROJECT_DIR$/TestsGenerator.UnitTests/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/TestsGenerator/CodeAnalysis/CodeAnalyzer.cs" />
         <option value="$PROJECT_DIR$/TestsGenerator.Tests/packages.config" />
         <option value="$PROJECT_DIR$/TestsGenerator.Tests/Tests.cs" />
+        <option value="$PROJECT_DIR$/TestsGenerator.UnitTests/UnitTest1.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1k6bvoLVjAzS3hKfJ5G7IESI8Hp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="RiderUnitTestingPageId" />
@@ -104,8 +117,23 @@
       <workItem from="1605024276591" duration="2591000" />
       <workItem from="1605028887475" duration="599000" />
       <workItem from="1605472461937" duration="3746000" />
-      <workItem from="1605516575862" duration="6053000" />
+      <workItem from="1605516575862" duration="8761000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Unit Tests">
+      <created>1605526973206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605526973206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixed Unit Tests">
+      <created>1605527180353</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605527180353</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,7 +142,11 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added Unit Tests" />
+    <MESSAGE value="Fixed Unit Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Unit Tests" />
   </component>
   <component name="WindowStateProjectService">
     <state x="619" y="380" key="Github.ShareDialog" timestamp="1605526305680">
@@ -125,22 +157,22 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="376" y="188" key="Github.UntrackedFilesDialog/0.0.1504.963@0.0.1504.963" timestamp="1605526322096" />
-    <state width="1461" height="256" key="GridCell.Tab.0.bottom" timestamp="1605525949522">
+    <state width="1461" height="256" key="GridCell.Tab.0.bottom" timestamp="1605533891698">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="256" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1605525949522" />
-    <state width="1461" height="256" key="GridCell.Tab.0.center" timestamp="1605525949522">
+    <state width="1461" height="256" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1605533891698" />
+    <state width="1461" height="256" key="GridCell.Tab.0.center" timestamp="1605533891697">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="256" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1605525949522" />
-    <state width="1461" height="256" key="GridCell.Tab.0.left" timestamp="1605525949522">
+    <state width="1461" height="256" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1605533891697" />
+    <state width="1461" height="256" key="GridCell.Tab.0.left" timestamp="1605533891697">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="256" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1605525949522" />
-    <state width="1461" height="256" key="GridCell.Tab.0.right" timestamp="1605525949522">
+    <state width="1461" height="256" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1605533891697" />
+    <state width="1461" height="256" key="GridCell.Tab.0.right" timestamp="1605533891697">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="256" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1605525949522" />
+    <state width="1461" height="256" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1605533891697" />
     <state x="345" y="214" key="Rider.ProjectTemplateDialog.Size" timestamp="1605525978849">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -149,5 +181,9 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="254" y="127" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1605473596171" />
+    <state x="345" y="215" key="Vcs.Push.Dialog.v2" timestamp="1605527167942">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="345" y="215" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1605527167942" />
   </component>
 </project>

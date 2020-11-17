@@ -178,5 +178,3 @@ C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.UnitTest
 C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.UnitTests\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.UnitTests\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.UnitTests\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.UnitTests\bin\Debug\x86\e_sqlite3.dll
-C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.UnitTests\bin\Debug\x64\e_sqlite3.dll

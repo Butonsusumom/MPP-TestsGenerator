@@ -2,7 +2,6 @@ C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bi
 C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bin\Debug\TestsGenerator.Tests.pdb
 C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bin\Debug\Microsoft.CodeAnalysis.dll
-C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bin\Debug\nunit.framework.dll
 C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bin\Debug\System.Buffers.dll
 C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bin\Debug\System.Collections.Immutable.dll
 C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bin\Debug\System.Memory.dll
@@ -75,3 +74,6 @@ C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bi
 C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Ksusha\Downloads\tests-generator\TestsGenerator\TestsGenerator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
