@@ -9,17 +9,17 @@ namespace TestsGenerator.UsageExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Write list of test separating them by spaces");
+            /*Console.WriteLine("Write list of test separating them by spaces");
             var testFiles = Console.ReadLine().Split(' ').ToList();
             Console.WriteLine("Write max amount of streams for reading");
             var maxInputStreams = int.Parse(Console.ReadLine());
             Console.WriteLine("Write max amount of streams for writing");
             var maxOutStreams = int.Parse(Console.ReadLine());
             Console.WriteLine("Write max amount of streams for generating tests");
-            var maxMainStreams = int.Parse(Console.ReadLine());
+            var maxMainStreams = int.Parse(Console.ReadLine());*/
             TestsGeneratorConfig config = new TestsGeneratorConfig
             {
-                /*ReadPaths = new List<string>
+                ReadPaths = new List<string>
                 {
                     "../../SimpleTestFile.cs",
                     "../../ExtendedTestFile.cs"
@@ -30,16 +30,16 @@ namespace TestsGenerator.UsageExample
                 },
                 ReadThreadCount = 2,
                 WriteThreadCount = 2,
-                processThreadCount = 2*/
+                processThreadCount = 2
                 
-                ReadPaths=testFiles,
+                /*ReadPaths=testFiles,
                 Writer = new AsyncFileWriter()
                 {
                     Directory = "../../GeneratedTests"
                 },
                 ReadThreadCount = maxInputStreams,
                 WriteThreadCount = maxOutStreams,
-                processThreadCount = maxMainStreams
+                processThreadCount = maxMainStreams*/
                 
                     
             };
